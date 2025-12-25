@@ -20,7 +20,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/ai-system-architect.git](https://github.com/yourusername/ai-system-architect.git)
+    git clone [https://github.com/AbhishekAwasthi565/AI-System-Architect.git](https://github.com/AbhishekAwasthi565/AI-System-Architect.git)
     cd ai-system-architect
     ```
 
